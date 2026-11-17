@@ -1,0 +1,9 @@
+id,question,expected_pages,answerable,memo
+q01,ホルムズ海峡の通航が困難になったことで、日本のエネルギーにどんな影響があったか？,,yes,expected_pages を白書で確認して記入
+q02,中東情勢を受けて、政府は石油備蓄をどのように使ったか？,,yes,expected_pages を白書で確認して記入
+q03,原油の調達先を広げるためにどんな取組をしたか？,,yes,expected_pages を白書で確認して記入
+q04,ALPS処理水の放出に伴うタンクの解体はどこまで進んだか？,,yes,expected_pages を白書で確認して記入
+q05,福島新エネ社会構想の「加速化プラン2026」とは何か？,,yes,expected_pages を白書で確認して記入
+q06,地熱発電の導入拡大に向けてどんな支援をしているか？,,yes,expected_pages を白書で確認して記入
+q07,太陽光発電の出力制御を減らすための対策は？,,yes,expected_pages を白書で確認して記入
+q08,2030年の自動車の販売台数の予測は？,,no,白書に記述がないことを確認して使う

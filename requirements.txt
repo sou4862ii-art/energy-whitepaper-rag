@@ -1,0 +1,7 @@
+anthropic>=0.60
+pymupdf>=1.24
+numpy>=1.26
+streamlit>=1.40
+# ベクトル検索を使う場合だけ、どちらか一方
+# voyageai>=0.3.7            … RAG_EMBEDDER=voyage（APIキー VOYAGE_API_KEY が必要）
+# sentence-transformers>=3.0  … RAG_EMBEDDER=local（無料・手元のPCで動く）
